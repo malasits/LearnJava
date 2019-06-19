@@ -1,0 +1,17 @@
+common:
+  database:
+    username: admin
+    password: password
+    url: 127.0.0.1
+  emailServer:
+    url: 127.0.0.1
+
+HomeController:
+  msg: Ez a yaml fájlból van!
+
+person2:
+  first-name : Joker
+  last-name : Kovács
+  age : 21
+  adress : Budapest1
+  phoneNumber : +36/00 0000000
